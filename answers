@@ -1,0 +1,6 @@
+
+import array as np
+a=np.array('i',[1,2,4])
+b=np.array('i',[2,3,5])
+result=a*b
+print(result)   
